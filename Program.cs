@@ -10,7 +10,7 @@ namespace PIS_AnteDonlic
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Novo");
+            Console.WriteLine("Helou wrld"); // This has been fixed by me
         }
     }
 }
