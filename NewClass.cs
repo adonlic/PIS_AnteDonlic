@@ -8,5 +8,9 @@ namespace PIS_AnteDonlic
 {
     class NewClass
     {
+        void NewFunction()
+        {
+
+        }
     }
 }
