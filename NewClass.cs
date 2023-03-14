@@ -10,7 +10,7 @@ namespace PIS_AnteDonlic
     {
         void NewFunction()
         {
-
+            // Comment
         }
     }
 }
